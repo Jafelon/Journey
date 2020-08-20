@@ -1,5 +1,5 @@
 # Journey
-A 2D adventure/hack n slash game created by 
+A 2D adventure/hack n slash game.
 
 
 ### Project Published/Developed by : Night Studio - Zen 
